@@ -9,5 +9,7 @@ It mimics the look and feel of YouTube's video cards and UI structure using only
 - Search filter for videos (using JS)
 - Responsive layout using Flexbox
 - Custom styled video cards
+## live Demo 
+[Click to here live view ]( https://abhinavlara.github.io/youtube-clone/)
 
 🚀 Built with: HTML | CSS | JavaScript
